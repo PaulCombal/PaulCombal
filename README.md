@@ -2,7 +2,7 @@
 
 Born to be a systems programmer.. forced to write PHP 🙂
 
-👱 Mid-level programmer from France.
+👱 Mid-level developer from France.
 
 📥 I am open for any inquiry. I like to work remote in stable, professional teams.
 
