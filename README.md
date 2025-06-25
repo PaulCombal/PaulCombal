@@ -21,6 +21,6 @@ Some of the technologies I've used for personal and professional projects includ
 - JavaScript (Angular, React, Vue2/3 + Nuxt 3) (most experience in Vue/Nuxt)
 - C/C++
 - Rust
+- Linux, Docker
 - Go
 - C# and ASP.NET Core
-- Bash & Linux system administration
