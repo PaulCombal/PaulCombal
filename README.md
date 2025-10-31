@@ -1,4 +1,4 @@
-### Systems programmer & project manager
+### Sofware developer & project manager
 
 Born to be a systems programmer.. forced to write PHP 🙂
 
