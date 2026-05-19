@@ -11,8 +11,8 @@ Born to be a systems programmer.. forced to write PHP 🙂
 -----
 
 Some of my closed-source projects:
-- [MakeNanoWork](https://www.makenano.work/): Instant payment processing service for the Nano cryptocurrency
-- [SaleSnake](https://www.salesnake.com/): Make Telegram bots to advertise your products anonymously with no trace
+- ~~MakeNanoWork~~: Instant payment processing service for the Nano cryptocurrency. Leveraged Rust for providing a crypto payment Gateway API. Closed because of lack of traction.
+- ~~SaleSnake~~: Make Telegram bots to advertise your products anonymously with no trace. Provided tools to create a marketplace hosted on Telegram bots. Closed because of lack of traction.
 
 -----
 
