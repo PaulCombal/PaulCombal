@@ -4,7 +4,7 @@ Born to be a systems programmer.. forced to write PHP 🙂
 
 👱 Mid-level developer from France.
 
-📥 Open to new opportunities. Experienced in remote collaboration within professional, stable team structures.
+📥 Open to new opportunities. Experienced in remote collaboration within professional team structures.
 
 ✉️ Contact me on Linkedin: [in/paul-combaldieu](https://www.linkedin.com/in/paul-combaldieu/)
 
@@ -23,5 +23,5 @@ Technologies I've used for personal and professional projects include:
 - Rust
 - Linux, Docker
 - Go
-- C# and ASP.NET Core
+- C# and ASP.NET
 - ... and more
